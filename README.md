@@ -13,7 +13,8 @@ ggbetweenstats(
   centrality.plotting = TRUE,
   bf.message = TRUE
 )
-#SCRIB OF DATA:
+
+#Scrib_of_data
 estructura: Nombre= comando(base de datos, características)</h2>
 #para insatalar una libreria#
 install.packages("raster")
@@ -75,3 +76,4 @@ roulette_selection_vector=roulette_vector[2:5]
 
 #Browse teh promedy
 mean(poker_start)
+#Elaborado por Jesús Eduardo Huitrón Lemus
